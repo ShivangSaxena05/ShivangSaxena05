@@ -1,5 +1,4 @@
-![Minimal Technology, on A Dark Blue Background (banner (landscape))](https://github.com/ShivangSaxena05/ShivangSaxena05/assets/82094331/5be7f203-4b41-4447-bddd-a1bb6380f285)
-
+<img src="https://i.postimg.cc/YSKGNLht/Minimal-Technology-on-A-Dark-Blue-Background-banner-landscape.gif">
 <h1 align="center">Hi 👋, I'm Shivang Saxena</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center"><img alt="Coding" width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0b0LvdNF4VEzRPiX-g0YTU29bYXuLnjXvEJynYW54u3vQdEYV5hUjFob1kIQZ_-O_DbZTDwDdonrkftLNyOZBUqHYgbYn7eyz4ERZOnD9Qg1yfhlPiy6Iisb9t-VwpcVrTiYa-_WoRpnspB6lUz_lnoLawbgCFCh0VzviCYr26oYNCSvVsJojLhx-Di8/s320/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/></p>
